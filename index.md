@@ -12,6 +12,7 @@ I am a data‑driven insight manager specialising in Financial Ombudsman Service
 
 My work focuses on turning complex complaint and regulatory data into clear, decision‑ready insight for senior leaders and product teams. Core interests include applied data science, automation, and fair customer outcomes.
 
+---
 
 ## Experience
 
