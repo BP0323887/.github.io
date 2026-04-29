@@ -6,19 +6,18 @@ layout: default
 
 **Insight Manager | Data Science | UK Banking Complaints**
 
-I am a data‑driven insight manager specialising in Financial Ombudsman Service (FOS) complaints within UK retail banking.  
-My work focuses on turning complex complaint and regulatory data into clear, decision‑ready insight.
+I am a data‑driven insight manager specialising in Financial Ombudsman Service (FOS) complaints within UK retail banking.
+
+My work focuses on turning complex complaint and regulatory data into clear, decision‑ready insight for senior leaders and product teams.
 
 Core interests include applied data science, automation, and fair customer outcomes.
 
 ---
 
-## What you will find here
+## Overview
 
-- Applied data science projects
-- Regulatory and complaints analytics
-- Machine learning coursework and experimentation
+This site contains selected data science projects, regulatory analytics work, and coursework completed as part of my Data Science degree.
 
-You can explore my projects or download my CV using the links in the sidebar.
+
 
 
