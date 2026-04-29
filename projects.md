@@ -19,7 +19,7 @@ title: Projects
 
 A logistic regression churn model built on test data, focusing on feature selection, interpretability and evaluation metrics.
 
-[View repository](https://github.com/BP0323887/logistic-regression-project)
+[View repository](https://github.com/BP0323887/K-means-Clustering-NFL-Player-Archetypes-)
 
 ---
 
