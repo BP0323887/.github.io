@@ -9,7 +9,13 @@ title: Projects
 
 ### Simple Logistic Regression
 
-![Logistic Regression](/images/LogisticRegressionLogo.png)
+
+<p align="left">
+  <img src="/images/LogisticRegressionLogo.png"
+       alt="Logistic Regression"
+       width="200">
+</p>
+
 
 A logistic regression churn model built on test data, focusing on feature selection, interpretability and evaluation metrics.
 
