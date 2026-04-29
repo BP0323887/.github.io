@@ -28,5 +28,5 @@ I am an Insight Manager at Lloyds Banking Group specialising in complaints analy
 - Data science and machine learning fundamentals
 - Regulatory analytics (FCA, FOS)
 - Senior‑level insight communication
-- Presentatn and Public Speaking
+- Presentation and Public Speaking
 
