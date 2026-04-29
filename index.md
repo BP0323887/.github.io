@@ -46,8 +46,6 @@ My work focuses on turning complex complaint and regulatory data into clear, dec
 
 ## Selected projects
 
----
-
 ### K Means Clustering NFL Archetypes
 
 
