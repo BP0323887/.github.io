@@ -11,7 +11,7 @@ title: Projects
 
 
 <p align="left">
-  <img src="/images/LogisticRegressionLogo.png"
+  <img src="/images/KMeansClustering.png"
        alt="Logistic Regression"
        width="200">
 </p>
