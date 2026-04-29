@@ -10,11 +10,9 @@ title: Projects
 ### K Means Clustering NFL Archetypes
 
 
-<p align="left">
-  <img src="/images/KMeansClustering.png"
-       alt="Logistic Regression"
-       width="200">
-</p>
+<img src="/images/KMeansClustering.png"
+       alt="K means clustering"
+       width="180">
 
 
 A K means clustering project using historical combine data to detemrine archetypes of Wide Receiver found in the NFL draft.
