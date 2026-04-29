@@ -1,22 +1,14 @@
 title: Luke Waldron
-
 description: >
   Portfolio of analytical and data science work to support my Data Science Degree.
 
-theme: minima
-
-markdown: kramdown
+theme: jekyll-theme-minimal
 
 logo: /images/selfie.jpeg
+show_downloads: false
 
 github:
   is_project_page: false
 
-social:
-  github: BP0323887
-  linkedin: luke-waldron-a59b9b96
-
 exclude:
   - README.md
-
-
