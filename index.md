@@ -8,6 +8,12 @@ layout: default
 
 ---
 
+## Overview
+
+This site contains selected data science projects, regulatory analytics work, and coursework completed as part of my Data Science degree.
+
+---
+
 ## About me
 
 I am a data‑driven insight manager specialising in Financial Ombudsman Service (FOS) complaints within UK retail banking.
@@ -35,11 +41,6 @@ My work focuses on turning complex complaint and regulatory data into clear, dec
 - Presentation and Public Speaking
 
 
----
-
-## Overview
-
-This site contains selected data science projects, regulatory analytics work, and coursework completed as part of my Data Science degree.
 
 ---
 
