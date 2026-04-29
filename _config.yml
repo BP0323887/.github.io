@@ -3,11 +3,11 @@ tagline: Insight Manager and Data Science Student
 description: >
   Portfolio of analytical and data science work to support my Data Science Degree.
 
+theme: minima
+
 author:
   name: Luke Waldron
   location: United Kingdom
-
-remote_theme: poole/hyde
 
 markdown: kramdown
 highlighter: rouge
