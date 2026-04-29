@@ -6,11 +6,33 @@ layout: default
 
 **Insight Manager | Data Science | UK Banking Complaints**
 
+## About me
+
 I am a data‑driven insight manager specialising in Financial Ombudsman Service (FOS) complaints within UK retail banking.
 
-My work focuses on turning complex complaint and regulatory data into clear, decision‑ready insight for senior leaders and product teams.
+My work focuses on turning complex complaint and regulatory data into clear, decision‑ready insight for senior leaders and product teams. Core interests include applied data science, automation, and fair customer outcomes.
 
-Core interests include applied data science, automation, and fair customer outcomes.
+
+## Experience
+
+### Lloyds Banking Group  
+**Insight Manager – Customer Complaints (Consumer Relationships COO)**
+
+- Thematic analysis of FOS decisions
+- Executive‑level insight packs for senior stakeholders
+- Translation of regulatory learning into operational change
+- Application of FCA Consumer Duty and CCA principles
+
+---
+
+## Skills
+
+- Python, SQL, Power BI, Excel
+- Data science and machine learning fundamentals
+- Regulatory analytics (FCA, FOS)
+- Senior‑level insight communication
+- Presentation and Public Speaking
+
 
 ---
 
