@@ -44,7 +44,7 @@ My work focuses on turning complex complaint and regulatory data into clear, dec
 
 ---
 
-## Selected projects
+## Selected Projects
 
 ### K Means Clustering NFL Archetypes 
 
@@ -62,13 +62,16 @@ A K means clustering project using historical combine data to detemrine archetyp
 
 ---
 
-### NFL Combine Analysis
+### Repo 2
 
 ![NFL Combine](/images/nfl_combine.png)
 
-Predictive modelling and clustering using NFL Combine data to explore physical archetypes and draft outcomes ofr Wide Receivers.
-
-[View repository](https://github.com/BP0323887/nfl-combine-analysis)
+<a href="https://github.com/BP0323887/K-means-Clustering-NFL-Player-Archetypes-">
+  <img src="/images/KMeansClustering.png"
+       alt="K-means clustering"
+       width="180">
+</a>
+Lets have anothe ro of these then
 
 
 
