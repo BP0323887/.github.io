@@ -18,6 +18,10 @@ Core interests include applied data science, automation, and fair customer outco
 
 This site contains selected data science projects, regulatory analytics work, and coursework completed as part of my Data Science degree.
 
+---
+
+- [About] (/about)
+
 
 
 
