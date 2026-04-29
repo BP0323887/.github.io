@@ -20,7 +20,7 @@ This site contains selected data science projects, regulatory analytics work, an
 
 ---
 
-- [About] (/about)
+- [About](/about)
 
 
 
