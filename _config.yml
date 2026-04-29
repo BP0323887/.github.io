@@ -1,16 +1,11 @@
 title: Luke Waldron
-tagline: Insight Manager and Data Science Student
+
 description: >
   Portfolio of analytical and data science work to support my Data Science Degree.
 
 theme: minima
 
-author:
-  name: Luke Waldron
-  location: United Kingdom
-
 markdown: kramdown
-highlighter: rouge
 
 logo: /images/selfie.jpeg
 
