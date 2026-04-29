@@ -48,7 +48,7 @@ My work focuses on turning complex complaint and regulatory data into clear, dec
 
 ### K Means Clustering NFL Archetypes 
 
-<a href="https://github.com/BP0323887/K-means-Clustering-NFL-Player-Archetypes-">
+<a href="https://raw.githubusercontent.com/BP0323887/.github.io/main/images/KMeansClustering.png">
   <img 
     src="/images/KMeansClustering.png"
     alt="K-means clustering"
