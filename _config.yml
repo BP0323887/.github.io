@@ -1,1 +1,27 @@
+title: Luke Waldron
+tagline: Insight Manager and Data Science Student
+description: >
+  Portfolio of analytical and data science work to support my Data Science Degree.
+
+author:
+  name: Luke Waldron
+  location: United Kingdom
+
+remote_theme: poole/hyde
+
+markdown: kramdown
+highlighter: rouge
+
+logo: /images/selfie.jpeg
+
+github:
+  is_project_page: false
+
+social:
+  github: BP0323887
+  linkedin: luke-waldron-a59b9b96
+
+exclude:
+  - README.md
+
 
