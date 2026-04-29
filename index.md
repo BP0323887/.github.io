@@ -4,7 +4,7 @@ layout: default
 
 # Luke Waldron
 
-**Insight Manager | Data Science | UK Banking Complaints**
+Insight Manager | Data Science | UK Banking Complaints
 
 ---
 
