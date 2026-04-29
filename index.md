@@ -64,14 +64,13 @@ A K means clustering project using historical combine data to detemrine archetyp
 
 ### Repo 2
 
-![NFL Combine](/images/nfl_combine.png)
 
 <a href="https://github.com/BP0323887/K-means-Clustering-NFL-Player-Archetypes-">
   <img src="/images/KMeansClustering.png"
        alt="K-means clustering"
        width="180">
 </a>
-Lets have anothe ro of these then
+Lets have another one of these then
 
 
 
