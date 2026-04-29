@@ -6,6 +6,8 @@ layout: default
 
 **Insight Manager | Data Science | UK Banking Complaints**
 
+---
+
 ## About me
 
 I am a data‑driven insight manager specialising in Financial Ombudsman Service (FOS) complaints within UK retail banking.
@@ -23,8 +25,6 @@ My work focuses on turning complex complaint and regulatory data into clear, dec
 - Executive‑level insight packs for senior stakeholders
 - Translation of regulatory learning into operational change
 - Application of FCA Consumer Duty and CCA principles
-
----
 
 ## Skills
 
